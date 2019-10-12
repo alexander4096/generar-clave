@@ -1,0 +1,19 @@
+{
+    "name": "alexander4096/generar-clave",
+    "description": "Esta libreria permite generar claves aleatorias seguras, combinadas: alfa/numericas/simbolos y configurables",
+    "type": "library",
+    "keywords": ["claves", "generador", "password"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alexander4096",
+            "email": "alexander4096@hotmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"generarclave\\": "src/"}
+    },
+    "require": {}
+}
